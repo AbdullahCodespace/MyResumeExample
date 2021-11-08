@@ -1,0 +1,40 @@
+body{
+    background-color: blue;
+}
+
+header{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#headshot{
+    border: 10px red solid;
+    border-radius: 1000px;
+}
+
+.myInfo{
+    background-color: antiquewhite;
+}
+
+#education{
+    color: brown;
+}
+
+#experience{
+    font-size: larger;
+    color: brown;
+}
+
+#menu{
+    background-color: deepskyblue;
+    flex: 2;
+}
+
+section{
+    flex: 8;
+    padding-left: 10px;
+}
+
+#wrapper{
+    display: flex;
+}
